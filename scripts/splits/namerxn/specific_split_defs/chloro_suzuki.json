@@ -1,0 +1,5 @@
+{
+  "name": "chloro_suzuki",
+  "excluded_name_rxns": ["3.1.6", "3.1.2"],
+  "terms_to_check": [["chloro", "suzuki"]]
+}

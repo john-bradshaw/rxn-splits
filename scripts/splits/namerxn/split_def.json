@@ -1,0 +1,11 @@
+{
+  "valid_amount": 10000,
+  "id_test_amount": 10000,
+  "hard_limit_train": 1000000,
+  "od_test_amount": 10000,
+  "finetune_amount": 1000,
+  "clean_data_location": "<path to clean dataset>",
+  "random_seed": 67823147,
+  "other_args": {"exclude_all_relevant_docs": true},
+  "name": "1-million-202403"
+}

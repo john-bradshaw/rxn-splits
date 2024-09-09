@@ -1,0 +1,5 @@
+{
+  "name": "all_suzuki",
+  "excluded_name_rxns": ["3.1"],
+  "terms_to_check": [["suzuki"]]
+}

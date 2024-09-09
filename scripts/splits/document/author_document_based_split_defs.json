@@ -1,0 +1,10 @@
+{
+  "valid_amount": 30000,
+  "id_test_amount": 100000,
+  "od_test_amount_docs": 100000,
+  "od_test_amount_authors": 100000,
+  "train_amount": 1000000,
+  "clean_data_location": "<data clean path>",
+  "random_seed": 903982,
+  "name": "author_doc_903982"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "20240417_buchwald_hartwig_213",
+  "namerxn_codes": ["1.3.1", "1.3.2", "1.3.3", "1.3.4", "1.9.43"],
+  "terms_to_check": [["Buchwald-Hartwig"], ["Buchwald"]],
+  "reactions_jsonl_datasets_to_exclude": [
+    "<paths to time based split training sets>"
+  ],
+  "create_exclusion_ignored_set": true,
+  "clean_data_location": "<path to clean data location>",
+  "random_seed": 213
+}

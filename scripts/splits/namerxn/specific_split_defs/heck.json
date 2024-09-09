@@ -1,0 +1,5 @@
+{
+  "name": "heck",
+  "excluded_name_rxns": ["3.2"],
+  "terms_to_check": [["heck"]]
+}

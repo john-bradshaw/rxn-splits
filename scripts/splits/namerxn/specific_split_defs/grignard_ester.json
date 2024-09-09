@@ -1,0 +1,6 @@
+{
+  "name": "grignard-ester",
+  "excluded_name_rxns": ["3.7.14", "3.7.15", "3.7.17", "3.7.19"],
+  "terms_to_check": [["grignard", "ester"]]
+
+}
