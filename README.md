@@ -1,6 +1,6 @@
 # rxn-splits: OOD reaction dataset splits
 
-Code to accompany our paper: XXX (see also the repository [here](https://github.com/john-bradshaw/rxn-lm) for model code). 
+Code to accompany our paper: Challenging reaction prediction models to generalize to novel chemistry (see also the repository [here](https://github.com/john-bradshaw/rxn-lm) for model code). 
 This repo contains code to create OOD splits of the Pistachio chemical reaction dataset.
 
 Note that due to its proprietary nature, we do not provide the Pistachio dataset in this repo — just our code for 
